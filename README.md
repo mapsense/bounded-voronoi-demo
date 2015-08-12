@@ -3,9 +3,9 @@
 This repository contains sample data for the Mapsense Bounded Voronoi demo, as well as a python script (voronoi.py) and a Jupyter notebook (Voronoi.ipynb) which will create a bounded Voronoi diagram.
 
 ## Dependencies:
-numpy >= 1.9.2
-scipy >= 0.15.1
-shapely >= 1.4.1
+    numpy >= 1.9.2
+    scipy >= 0.15.1
+    shapely >= 1.4.1
 
 ## Installation:
     pip install -r requirements.txt
